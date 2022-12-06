@@ -19,6 +19,9 @@ i will continueously update my products here and wish you guys like.
   
 [📚🔖**READING NOTES**](https://github.com/ryanhigh/ryanhigh.github.io/blob/main/article/studynotesOf_foudations_of_dynamic_BFT.md)  
   
+&emsp;&emsp;After reading the para below, i started to study the [**Practical Byzantine Fault Tolerance**](https://www.cnblogs.com/peteremperor/p/15545155.html) to find out the **view** in BFT   
+> Our notion of configurations (dealing with membership) is independent of views (in the sense of view changes for partially synchronous BFT)
+  
   
   
 
